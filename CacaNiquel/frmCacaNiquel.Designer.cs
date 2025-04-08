@@ -107,6 +107,7 @@
             this.Controls.Add(this.lblNiquel1);
             this.Name = "fmrCacaNiquel";
             this.Text = "Caça Níquel";
+            this.Load += new System.EventHandler(this.fmrCacaNiquel_Load);
             this.ResumeLayout(false);
 
         }

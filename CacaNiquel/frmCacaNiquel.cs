@@ -12,10 +12,16 @@ namespace CacaNiquel
 {
     public partial class fmrCacaNiquel : Form
     {
+        //Inicio da Classe - C
         private Random srt = new Random();
         private int niquel1, niquel2, niquel3;
         private int contaGiro = 0, contaNiquel = 1;
         private int tentativas = 3;
+
+        private void fmrCacaNiquel_Load(object sender, EventArgs e)
+        {
+
+        }
 
         private void btnJogar_Click(object sender, EventArgs e)
         {

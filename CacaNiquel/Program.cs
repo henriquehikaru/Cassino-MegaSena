@@ -16,7 +16,7 @@ namespace CacaNiquel
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new fmrCacaNiquel());
+            Application.Run(new fmrMegaSena());
         }
     }
 }
