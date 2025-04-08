@@ -74,11 +74,15 @@ namespace CacaNiquel
 
                     if (niquel1 == niquel2 && niquel2 == niquel3)
                     {
-                        MessageBox.Show("Parabéns, você ganhou!");
+                        MessageBox.Show("Parabéns, você ganhou um milhão 🌽🌽🌽!");
+                    }
+                    if (niquel1 == niquel2 || niquel1 ==  niquel3 || niquel2 == niquel3)
+                    {
+                        MessageBox.Show("Parabéns, você ganhou um milho 🌽!");
                     }
                     else
                     {
-                        MessageBox.Show("Que pena, você perdeu!");
+                        MessageBox.Show("Que pena, você perdeu! 😭");
                     }
 
                     listNiquel.Items.Add(niquel1.ToString() + " - " + niquel2.ToString() + " - " + niquel3.ToString());
