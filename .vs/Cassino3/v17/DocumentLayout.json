@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ra2457022\\source\\repos\\Cassino-MegaSena\\",
+  "WorkspaceRootPath": "C:\\Users\\Henrique\\source\\repos\\Cassino-MegaSena\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ACB4D93B-574A-425E-8FE6-811C596AD492}|CacaNiquel\\CacaNiquel.csproj|C:\\Users\\ra2457022\\source\\repos\\Cassino-MegaSena\\cacaniquel\\fmrmegasena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{ACB4D93B-574A-425E-8FE6-811C596AD492}|CacaNiquel\\CacaNiquel.csproj|solutionrelative:cacaniquel\\fmrmegasena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ACB4D93B-574A-425E-8FE6-811C596AD492}|CacaNiquel\\CacaNiquel.csproj|C:\\Users\\ra2457022\\source\\repos\\Cassino-MegaSena\\cacaniquel\\frmcacaniquel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ACB4D93B-574A-425E-8FE6-811C596AD492}|CacaNiquel\\CacaNiquel.csproj|solutionrelative:cacaniquel\\frmcacaniquel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ACB4D93B-574A-425E-8FE6-811C596AD492}|CacaNiquel\\CacaNiquel.csproj|C:\\Users\\ra2457022\\source\\repos\\Cassino-MegaSena\\cacaniquel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ACB4D93B-574A-425E-8FE6-811C596AD492}|CacaNiquel\\CacaNiquel.csproj|solutionrelative:cacaniquel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ACB4D93B-574A-425E-8FE6-811C596AD492}|CacaNiquel\\CacaNiquel.csproj|c:\\users\\ra2457022\\source\\repos\\cassino-megasena\\cacaniquel\\fmrmegasena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ACB4D93B-574A-425E-8FE6-811C596AD492}|CacaNiquel\\CacaNiquel.csproj|C:\\Users\\Henrique\\source\\repos\\Cassino-MegaSena\\cacaniquel\\fmrmegasena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ACB4D93B-574A-425E-8FE6-811C596AD492}|CacaNiquel\\CacaNiquel.csproj|solutionrelative:cacaniquel\\fmrmegasena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ACB4D93B-574A-425E-8FE6-811C596AD492}|CacaNiquel\\CacaNiquel.csproj|C:\\Users\\ra2457022\\source\\repos\\Cassino-MegaSena\\cacaniquel\\frmcacaniquel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{ACB4D93B-574A-425E-8FE6-811C596AD492}|CacaNiquel\\CacaNiquel.csproj|C:\\Users\\Henrique\\source\\repos\\Cassino-MegaSena\\cacaniquel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACB4D93B-574A-425E-8FE6-811C596AD492}|CacaNiquel\\CacaNiquel.csproj|solutionrelative:cacaniquel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACB4D93B-574A-425E-8FE6-811C596AD492}|CacaNiquel\\CacaNiquel.csproj|C:\\Users\\Henrique\\source\\repos\\Cassino-MegaSena\\cacaniquel\\frmcacaniquel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACB4D93B-574A-425E-8FE6-811C596AD492}|CacaNiquel\\CacaNiquel.csproj|solutionrelative:cacaniquel\\frmcacaniquel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACB4D93B-574A-425E-8FE6-811C596AD492}|CacaNiquel\\CacaNiquel.csproj|c:\\users\\henrique\\source\\repos\\cassino-megasena\\cacaniquel\\fmrmegasena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ACB4D93B-574A-425E-8FE6-811C596AD492}|CacaNiquel\\CacaNiquel.csproj|solutionrelative:cacaniquel\\fmrmegasena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACB4D93B-574A-425E-8FE6-811C596AD492}|CacaNiquel\\CacaNiquel.csproj|C:\\Users\\Henrique\\source\\repos\\Cassino-MegaSena\\cacaniquel\\frmcacaniquel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{ACB4D93B-574A-425E-8FE6-811C596AD492}|CacaNiquel\\CacaNiquel.csproj|solutionrelative:cacaniquel\\frmcacaniquel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -30,29 +30,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "fmrMegaSena.cs",
-              "DocumentMoniker": "C:\\Users\\ra2457022\\source\\repos\\Cassino-MegaSena\\CacaNiquel\\fmrMegaSena.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique\\source\\repos\\Cassino-MegaSena\\CacaNiquel\\fmrMegaSena.cs",
               "RelativeDocumentMoniker": "CacaNiquel\\fmrMegaSena.cs",
-              "ToolTip": "C:\\Users\\ra2457022\\source\\repos\\Cassino-MegaSena\\CacaNiquel\\fmrMegaSena.cs",
-              "RelativeToolTip": "CacaNiquel\\fmrMegaSena.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Henrique\\source\\repos\\Cassino-MegaSena\\CacaNiquel\\fmrMegaSena.cs*",
+              "RelativeToolTip": "CacaNiquel\\fmrMegaSena.cs*",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAwC0AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-27T00:22:38.001Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "fmrMegaSena.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Henrique\\source\\repos\\Cassino-MegaSena\\CacaNiquel\\fmrMegaSena.cs",
+              "RelativeDocumentMoniker": "CacaNiquel\\fmrMegaSena.cs",
+              "ToolTip": "C:\\Users\\Henrique\\source\\repos\\Cassino-MegaSena\\CacaNiquel\\fmrMegaSena.cs [Design]*",
+              "RelativeToolTip": "CacaNiquel\\fmrMegaSena.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T00:07:45.755Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ra2457022\\source\\repos\\Cassino-MegaSena\\CacaNiquel\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique\\source\\repos\\Cassino-MegaSena\\CacaNiquel\\Program.cs",
               "RelativeDocumentMoniker": "CacaNiquel\\Program.cs",
-              "ToolTip": "C:\\Users\\ra2457022\\source\\repos\\Cassino-MegaSena\\CacaNiquel\\Program.cs",
+              "ToolTip": "C:\\Users\\Henrique\\source\\repos\\Cassino-MegaSena\\CacaNiquel\\Program.cs",
               "RelativeToolTip": "CacaNiquel\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -61,36 +77,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "frmCacaNiquel.cs",
-              "DocumentMoniker": "C:\\Users\\ra2457022\\source\\repos\\Cassino-MegaSena\\CacaNiquel\\frmCacaNiquel.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique\\source\\repos\\Cassino-MegaSena\\CacaNiquel\\frmCacaNiquel.cs",
               "RelativeDocumentMoniker": "CacaNiquel\\frmCacaNiquel.cs",
-              "ToolTip": "C:\\Users\\ra2457022\\source\\repos\\Cassino-MegaSena\\CacaNiquel\\frmCacaNiquel.cs",
+              "ToolTip": "C:\\Users\\Henrique\\source\\repos\\Cassino-MegaSena\\CacaNiquel\\frmCacaNiquel.cs",
               "RelativeToolTip": "CacaNiquel\\frmCacaNiquel.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAQwEwAAABPAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAqwB0AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-26T22:26:12.129Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "fmrMegaSena.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ra2457022\\source\\repos\\Cassino-MegaSena\\CacaNiquel\\fmrMegaSena.cs",
-              "RelativeDocumentMoniker": "CacaNiquel\\fmrMegaSena.cs",
-              "ToolTip": "C:\\Users\\ra2457022\\source\\repos\\Cassino-MegaSena\\CacaNiquel\\fmrMegaSena.cs [Design]",
-              "RelativeToolTip": "CacaNiquel\\fmrMegaSena.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T00:07:45.755Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
               "Title": "frmCacaNiquel.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ra2457022\\source\\repos\\Cassino-MegaSena\\CacaNiquel\\frmCacaNiquel.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique\\source\\repos\\Cassino-MegaSena\\CacaNiquel\\frmCacaNiquel.cs",
               "RelativeDocumentMoniker": "CacaNiquel\\frmCacaNiquel.cs",
-              "ToolTip": "C:\\Users\\ra2457022\\source\\repos\\Cassino-MegaSena\\CacaNiquel\\frmCacaNiquel.cs [Design]",
+              "ToolTip": "C:\\Users\\Henrique\\source\\repos\\Cassino-MegaSena\\CacaNiquel\\frmCacaNiquel.cs [Design]",
               "RelativeToolTip": "CacaNiquel\\frmCacaNiquel.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-26T22:24:54.759Z",

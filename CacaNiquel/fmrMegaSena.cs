@@ -55,10 +55,17 @@ namespace CacaNiquel
                     lblCardAtual.Text += numeroSorteado.ToString("00") + " - ";
                     // lblCardAtual.Text += Convert.ToString(numeroSorteado + " - ");
                 }
+
+
+                //Remove o último hífen
+                if (lblCardAtual.Text.EndsWith(" - "))
+                {
+                    lblCardAtual.Text = lblCardAtual.Text.Substring(0, lblCardAtual.Text.Length - 3);
+                }
                 lstCartoes.Items.Add(lblCardAtual.Text);
                 lblCardAtual.Text = "";
             }
-            
         }
+
     }
 }

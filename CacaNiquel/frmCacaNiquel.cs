@@ -76,7 +76,7 @@ namespace CacaNiquel
                     {
                         MessageBox.Show("Parabéns, você ganhou um milhão 🌽🌽🌽!");
                     }
-                    if (niquel1 == niquel2 || niquel1 ==  niquel3 || niquel2 == niquel3)
+                    else if (niquel1 == niquel2 || niquel1 ==  niquel3 || niquel2 == niquel3)
                     {
                         MessageBox.Show("Parabéns, você ganhou um milho 🌽!");
                     }

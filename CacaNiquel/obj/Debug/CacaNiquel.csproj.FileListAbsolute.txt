@@ -20,3 +20,14 @@ C:\Users\ra2457022\Source\Repos\Cassino-MegaSena\CacaNiquel\obj\Debug\CacaNiquel
 C:\Users\ra2457022\Source\Repos\Cassino-MegaSena\CacaNiquel\obj\Debug\CacaNiquel.csproj.CoreCompileInputs.cache
 C:\Users\ra2457022\Source\Repos\Cassino-MegaSena\CacaNiquel\obj\Debug\CacaNiquel.exe
 C:\Users\ra2457022\Source\Repos\Cassino-MegaSena\CacaNiquel\obj\Debug\CacaNiquel.pdb
+C:\Users\Henrique\Source\Repos\Cassino-MegaSena\CacaNiquel\bin\Debug\CacaNiquel.exe.config
+C:\Users\Henrique\Source\Repos\Cassino-MegaSena\CacaNiquel\bin\Debug\CacaNiquel.exe
+C:\Users\Henrique\Source\Repos\Cassino-MegaSena\CacaNiquel\bin\Debug\CacaNiquel.pdb
+C:\Users\Henrique\Source\Repos\Cassino-MegaSena\CacaNiquel\obj\Debug\CacaNiquel.csproj.AssemblyReference.cache
+C:\Users\Henrique\Source\Repos\Cassino-MegaSena\CacaNiquel\obj\Debug\CacaNiquel.fmrMegaSena.resources
+C:\Users\Henrique\Source\Repos\Cassino-MegaSena\CacaNiquel\obj\Debug\CacaNiquel.fmrCacaNiquel.resources
+C:\Users\Henrique\Source\Repos\Cassino-MegaSena\CacaNiquel\obj\Debug\CacaNiquel.Properties.Resources.resources
+C:\Users\Henrique\Source\Repos\Cassino-MegaSena\CacaNiquel\obj\Debug\CacaNiquel.csproj.GenerateResource.cache
+C:\Users\Henrique\Source\Repos\Cassino-MegaSena\CacaNiquel\obj\Debug\CacaNiquel.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\Source\Repos\Cassino-MegaSena\CacaNiquel\obj\Debug\CacaNiquel.exe
+C:\Users\Henrique\Source\Repos\Cassino-MegaSena\CacaNiquel\obj\Debug\CacaNiquel.pdb
