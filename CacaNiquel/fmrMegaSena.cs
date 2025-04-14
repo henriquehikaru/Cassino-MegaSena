@@ -44,28 +44,49 @@ namespace CacaNiquel
             cartao = new int[Convert.ToInt32(txtQtDeCard.Text), 6];
             GerarCartoes();
         }
+
         private void GerarCartoes()
         {
             for (int i = 0; i < Convert.ToInt32(txtQtDeCard.Text); i++)
             {
-                for (int j = 0; j < 6; j++)
+                int j = 0;
+
+                while (j < 6)
                 {
                     numeroSorteado = Mega.Next(1, 61);
-                    cartao[i, j] = numeroSorteado;
-                    lblCardAtual.Text += numeroSorteado.ToString("00") + " - ";
-                    // lblCardAtual.Text += Convert.ToString(numeroSorteado + " - ");
+
+                    //Verificar repeticao de numeros
+                    bool repetido = false;
+                    for (int k = 0; k < j; k++)
+                    {
+                        if (cartao[i, k] == numeroSorteado)
+                        {
+                            repetido = true;
+                            break;
+                        }
+                    }
+
+                    if (!repetido)
+                    {
+                        cartao[i, j] = numeroSorteado;
+                        lblCardAtual.Text += numeroSorteado.ToString("00") + " - ";
+                        j++;
+                    } 
                 }
 
-
-                //Remove o último hífen
+                // Remove o ultimo hifen
                 if (lblCardAtual.Text.EndsWith(" - "))
                 {
                     lblCardAtual.Text = lblCardAtual.Text.Substring(0, lblCardAtual.Text.Length - 3);
                 }
+
                 lstCartoes.Items.Add(lblCardAtual.Text);
                 lblCardAtual.Text = "";
+
             }
         }
+
+        
 
     }
 }
